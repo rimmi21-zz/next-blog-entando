@@ -1,0 +1,6 @@
+code: next-blog
+titles:
+  en: Sample Next.js Blog
+  it: Sample Next.js Blog
+group: free
+customUiPath: blog.ftl
