@@ -1,0 +1,5 @@
+code: nextjs-blog-bundle
+description: Template for a simple Nextjs Blog Page
+components:
+  widgets:
+    - ui/widgets/widgets-dir/next-blog/blog-descriptor.yaml
